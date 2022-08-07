@@ -1,4 +1,4 @@
-** # Mars-Rover **
+# Mars-Rover
 
 ## Part 1
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This plateau, which is
